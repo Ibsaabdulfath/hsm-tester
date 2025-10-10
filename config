@@ -1,0 +1,10 @@
+# config file
+
+# point to tester directory (absolute path)
+# tester =
+
+# PKCS11 library path we supposed to use in tester
+# pkcs11 = /usr/local/lib/libiwhsmpkcs11.so.1.0.1
+
+# pin code of hsm
+# pin = 12345678
